@@ -1,0 +1,25 @@
+{
+  "name": "ii-automation-test-scenario",
+  "version": "1.0.0",
+  "description": "Automation test scenario for job interview",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaitHeaney/ii-automation-test-scenario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaitHeaney/ii-automation-test-scenario/issues"
+  },
+  "homepage": "https://github.com/CaitHeaney/ii-automation-test-scenario#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.13"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
